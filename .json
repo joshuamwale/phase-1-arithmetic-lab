@@ -1,0 +1,11 @@
+let multiply = (num1 * num2);
+//=> 62
+
+Math.random();
+0.4495550708
+
+let mod = 4 % (num3/num4);
+//=> 4
+// Write your code here
+Math.max (18, 19, 20, 10);
+//=> 20
